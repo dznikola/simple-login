@@ -1,2 +1,2 @@
 # simple-login
-My fist pice of code
+My fist piece of code
